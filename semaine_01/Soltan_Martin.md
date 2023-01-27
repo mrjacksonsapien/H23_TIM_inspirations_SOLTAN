@@ -2,7 +2,7 @@
 
 ![photo de moi](IMG_0263.png)
 
-## Intérêts
+## Intérêts dans le domaine du multimédia
 
 - Programmation et markdown (html, css, js, lua, c)
 - Modelage et animation 3D
