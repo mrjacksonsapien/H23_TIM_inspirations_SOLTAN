@@ -4,7 +4,7 @@
 
 ## Intérêts dans le domaine du multimédia
 
-- Programmation et markdown (html, css, js, lua, c)
+- Programmation et markup (html, css, js, lua, c)
 - Modelage et animation 3D
 - Montage vidéo
 
