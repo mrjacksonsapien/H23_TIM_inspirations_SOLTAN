@@ -44,7 +44,7 @@ Source: https://www.elektramontreal.ca/bian2022-ian-spriggs?lang=fr
 
 ## Type d'installations
 
-C'est une oeuvre contemplative. 4 télévisions qui sont accroché une à côté de l'autre qui montre des vidéos différentes en boucle. Il n'y a aucune interaction possible. 
+C'est une oeuvre contemplative. 4 télévisions qui sont accroché une à côté de l'autre qui montre des vidéos différentes en boucle. Il n'y a aucune interaction possible. Les deux images suivantes sont les résultats de transitions dans la même vidéo (transformation)
 
 <img width="200px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/photo1_frame_1.jpg">
 <img width="200px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/photo2_frame_1.jpg">
