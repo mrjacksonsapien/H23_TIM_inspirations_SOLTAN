@@ -73,3 +73,5 @@ Je pense qu'on pourrait peut-être à la première vue ne pas réaliser que ces 
 https://twitter.com/SpriggsIan
 
 https://www.elektramontreal.ca/bian2022-ian-spriggs?lang=fr
+
+https://www.arsenalcontemporary.com/mtl/exhib/detail/2022-elektra-6e-biennale
