@@ -68,5 +68,7 @@ Il n'ya pas beaucoup d'éléments nécessaire à part les 4 écrans (avec toutes
 ## Expérience vécue
 Je pense qu'on pourrait peut-être à la première vue ne pas réaliser que ces 4 écrans font tous parti de la même oeuvre mais avec la curiosité et l'attention on remarque beaucoup de choses et on se met à réfléchir sur le sens de cette oeuvre, on se pose beaucoup de pourquoi. Pourquoi les écrans sont si loins l'un de l'autre? Y a t-il un sens à cette oeuvre ou c'est simplement quelque chose de récréatif. Cette oeuvre m'a épaté et m'a captivé du début à la fin. C'est intéressant comment on peut rester des heures à regarder la même animation jouer en boucle encore et encore. C'est ce que j'ai aimé de cette oeuvre. Je n'ai pas compris trop comment l'artiste voulait transmettre le message des métas humains et le monde virtuelle qui prend plus de plaçe mais j'imagine qu'il fallait que je creuse un peu plus dans ma réflexion...
 
-*--Références--*
+*Références*
 
+https://twitter.com/SpriggsIan
+https://www.elektramontreal.ca/bian2022-ian-spriggs?lang=fr
