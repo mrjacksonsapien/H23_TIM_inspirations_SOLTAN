@@ -22,6 +22,10 @@ C'est une exposition intérieur qui est temporaire. Elle présente un certain no
 
 # Coeus, Prométhée & Ichor
 
+##Artiste
+
+Ian Spriggs
+
 ## Année de réalisation
 
 L'oeuvre à été réalisé en 2021 et exposée en 2022 (et 2023).
@@ -35,3 +39,9 @@ Voici une autre description tirée de la page web de l'oeuvre: ***« Tetrad est 
 Source: https://www.elektramontreal.ca/bian2022-ian-spriggs?lang=fr
 
 <img align= "left" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/cartel_desc.png">
+
+## Type d'installations
+
+Ce sont 4 télévisions qui sont accroché une à côté de l'autre qui montre des vidéos différentes en boucle. 
+
+<iframe align= "left" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/videos/frame_01.MOV">
