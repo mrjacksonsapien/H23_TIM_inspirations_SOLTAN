@@ -52,3 +52,5 @@ C'est une oeuvre contemplative. 4 télévisions qui sont accroché une à côté
 ***2 photos précédentes prise par: Omaël Coallier***
 
 ## Mise en espace (Schéma)
+
+<img width="200px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/croquis.jpg">
