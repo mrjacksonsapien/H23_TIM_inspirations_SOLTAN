@@ -22,9 +22,11 @@ C'est une exposition intérieur qui est temporaire. Elle présente un certain no
 
 # Coeus, Prométhée & Ichor
 
-##Artiste
+## Artiste
 
 Ian Spriggs
+
+<img src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/ian_spriggs.webp">
 
 ## Année de réalisation
 
