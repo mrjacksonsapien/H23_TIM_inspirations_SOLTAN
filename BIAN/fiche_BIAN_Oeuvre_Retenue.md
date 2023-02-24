@@ -26,7 +26,7 @@ C'est une exposition intérieur qui est temporaire. Elle présente un certain no
 
 Ian Spriggs
 
-<img src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/ian_spriggs.webp">
+<img align="right" width="200px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/ian_spriggs.webp">
 
 ## Année de réalisation
 
@@ -40,7 +40,7 @@ Voici une autre description tirée de la page web de l'oeuvre: ***« Tetrad est 
 
 Source: https://www.elektramontreal.ca/bian2022-ian-spriggs?lang=fr
 
-<img align="right" width="200px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/cartel_desc.png">  
+<img src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/cartel_desc.png">  
 
 ## Type d'installations
 
