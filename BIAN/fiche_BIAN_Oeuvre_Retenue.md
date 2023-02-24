@@ -17,11 +17,10 @@ C'est une exposition intérieur qui est temporaire. Elle présente un certain no
 
 
 ## Date de visite
-
 3 février 2023
 
-# Coeus, Prométhée & Ichor
 
+# Coeus, Prométhée & Ichor
 
 ## Année de réalisation
 
