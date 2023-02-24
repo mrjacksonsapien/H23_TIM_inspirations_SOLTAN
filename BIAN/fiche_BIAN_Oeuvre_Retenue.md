@@ -8,4 +8,4 @@
 
 *Arsenal art contemporain Montréal,*  
 
-*2020 William St, Montreal, Quebec H3J 1R8*
+**2020 William St, Montreal, Quebec H3J 1R8**
