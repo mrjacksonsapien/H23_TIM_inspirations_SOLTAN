@@ -61,8 +61,6 @@ C'est une oeuvre contemplative. Les deux images suivantes sont les résultats de
 
 Ce sont des télévisions de haute défintion (bonne qualité) avec des vidéos de haute qualités aussi. Le but de l'expérience est d'avoir quelque chose de hyper-réaliste. Les composants et appareillages en font parti. L'artiste qui à conçu cest modelages et animations 3D mentionne utiliser le logiciel Maya et Mudbox pour les éléments 3D et Davinci Resolve à été utilisé pour travailler un peu le métrage des animations 3D.
 
-<img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/croquis.jpg">
-
 ## Éléments nécessaires à la mise en exposition
 
 Il n'ya pas beaucoup d'éléments nécessaire à part les 4 écrans (avec toutes des tailles qui sont ajusté pour chaque vidéo) installés et branchés.
