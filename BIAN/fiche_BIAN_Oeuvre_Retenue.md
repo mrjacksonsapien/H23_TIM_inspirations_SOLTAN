@@ -38,7 +38,8 @@ Voici une autre description tirée de la page web de l'oeuvre: ***« Tetrad est 
 
 Source: https://www.elektramontreal.ca/bian2022-ian-spriggs?lang=fr
 
-<img align= "left" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/cartel_desc.png">
+<img align= "left" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/cartel_desc.png">  
+
 <img width="200px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/photo1_frame_1.jpg">
 <img width="200px" align="right" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/photo2_frame_1.jpg">
 
