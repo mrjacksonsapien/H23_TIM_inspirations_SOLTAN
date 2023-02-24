@@ -20,7 +20,7 @@ C'est une exposition intérieur qui est temporaire. Elle présente un certain no
 
 3 février 2023
 
-### Coeus, Prométhée & Ichor
+# Coeus, Prométhée & Ichor
 
 
 ## Année de réalisation
