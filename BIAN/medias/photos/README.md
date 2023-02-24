@@ -1,1 +1,1 @@
-# Toutes les photos de l'oeuvres prisent sur place et trouvées sur d'autres documents se retrouve ici
+# Toutes les photos de l'oeuvre prisent sur place et trouvées sur d'autres documents (web, sur place)
