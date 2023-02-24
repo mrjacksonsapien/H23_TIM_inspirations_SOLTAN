@@ -1,6 +1,7 @@
 # 6ème Biennale internationale d'art numérique
 
 <img src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/affiche_BIAN.jpg">
+Source: https://www.arsenalcontemporary.com/mtl/exhib/detail/2022-elektra-6e-biennale
 
 ## Lieu
 
@@ -27,6 +28,7 @@ C'est une exposition intérieur qui est temporaire. Elle présente un certain no
 Ian Spriggs
 
 <img align="right" width="200px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/ian_spriggs.webp">
+Source: https://www.arsenalcontemporary.com/mtl/exhib/detail/2022-elektra-6e-biennale
 
 ## Année de réalisation
 
@@ -73,5 +75,3 @@ Je pense qu'on pourrait peut-être à la première vue ne pas réaliser que ces 
 https://twitter.com/SpriggsIan
 
 https://www.elektramontreal.ca/bian2022-ian-spriggs?lang=fr
-
-https://www.arsenalcontemporary.com/mtl/exhib/detail/2022-elektra-6e-biennale
