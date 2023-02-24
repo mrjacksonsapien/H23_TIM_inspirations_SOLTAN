@@ -13,11 +13,16 @@
 
 ## Type d'exposition
 
-C'est une exposition intérieur qui est temporaire. Elle est affiché pendant une période de temps, cette exposition existe depuis 2012.
+C'est une exposition intérieur qui est temporaire. Elle présente un certain nombres d'oeuvres numériques pendant une période de temps, cette exposition existe depuis 2012.
 
 
 ## Date de visite
 
 3 février 2023
 
-## Coeus, Prométhée & Ichor
+### Coeus, Prométhée & Ichor
+
+
+## Année de réalisation
+
+L'oeuvre à été réalisé en 2021 et exposé en 2022.
