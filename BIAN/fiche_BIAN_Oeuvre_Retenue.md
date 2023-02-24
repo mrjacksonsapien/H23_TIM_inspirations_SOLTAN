@@ -71,4 +71,5 @@ Je pense qu'on pourrait peut-être à la première vue ne pas réaliser que ces 
 *Références*
 
 https://twitter.com/SpriggsIan
+
 https://www.elektramontreal.ca/bian2022-ian-spriggs?lang=fr
