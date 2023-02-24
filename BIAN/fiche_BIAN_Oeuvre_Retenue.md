@@ -24,7 +24,7 @@ C'est une exposition intérieur qui est temporaire. Elle présente un certain no
 
 ## Année de réalisation
 
-L'oeuvre à été réalisé en 2021 et exposé en 2022 (et 2023).
+L'oeuvre à été réalisé en 2021 et exposée en 2022 (et 2023).
 
 ## Description
 
