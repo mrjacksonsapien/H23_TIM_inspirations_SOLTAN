@@ -56,3 +56,7 @@ C'est une oeuvre contemplative. Les deux images suivantes sont les résultats de
 4 télévisions qui sont accroché une à côté de l'autre qui montre des vidéos différentes en boucle. La personne doit se déplacer un peu pour aller voir l'autre télé pusique qu'elles sont plus ou moins distancé.
 
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/croquis.jpg">
+
+## Composantes et techniques
+
+Ce sont des télévisions de haute défintion (bonne qualité) avec des vidéos de haute qualités aussi. Le but de l'expérience est d'avoir quelque chose de hyper-réaliste. Les composants et appareillages en font parti. L'artiste qui à conçu cest modelages et animations 3D mentionne utiliser le logiciel Maya et Mudbox pour les éléments 3D et Davinci Resolve à été utilisé pour travailler un peu le métrage des animations 3D.
