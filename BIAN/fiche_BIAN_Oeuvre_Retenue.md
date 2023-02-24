@@ -40,7 +40,7 @@ Source: https://www.elektramontreal.ca/bian2022-ian-spriggs?lang=fr
 
 <img align= "left" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/cartel_desc.png">
 <img width="200px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/photo1_frame_1.jpg">
-<img align="right" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/photo2_frame_1.jpg">
+<img width="200px" align="right" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/photo2_frame_1.jpg">
 
 ## Type d'installations
 
