@@ -53,4 +53,4 @@ C'est une oeuvre contemplative. 4 télévisions qui sont accroché une à côté
 
 ## Mise en espace (Schéma)
 
-<img width="200px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/croquis.jpg">
+<img src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/croquis.jpg">
