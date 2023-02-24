@@ -32,6 +32,6 @@ C'est une oeuvre constitué de 4 vidéos (rendu 3D) qui sont exposé l'une à c�
 
 Voici une autre description tirée de la page web de l'oeuvre: ***« Tetrad est un portrait humain numérique 3D hyper-réaliste qui explore les questions d'identité, de multiples et d'originaux. Alors que nous entrons dans le métavers, la technologie nous permet de créer des copies extrêmement précises et détaillées de nous-mêmes. Le support numérique peut copier et coller nos ressemblances, nos identités et notre être lui-même. Comment nous définissons-nous alors à travers les différents "moi" que nous créons ? »***
 
-*Source: https://www.elektramontreal.ca/bian2022-ian-spriggs?lang=fr*
+Source: https://www.elektramontreal.ca/bian2022-ian-spriggs?lang=fr
 
 <img align= "right" width="250px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/cartel_desc.png">
