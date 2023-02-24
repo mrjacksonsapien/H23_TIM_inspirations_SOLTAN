@@ -48,4 +48,5 @@ Ce sont 4 télévisions qui sont accroché une à côté de l'autre qui montre d
 
 <img src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/photo1_frame_1.jpg">
 <img src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/BIAN/medias/photos/photo2_frame_1.jpg">
+
 ***Photos prise par: Omaël Coallier***
