@@ -20,3 +20,6 @@ Montre l'importance pour les humains de rester en contact avec la nature en rais
 
 ### Boucler la boucle
 Ce parcours permet la connexion entre l'humain et la nature dans un environnement immersif (Lien de l'explication: https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html)
+
+### Zodie-Gal
+Le personnage de la petite fille « Flower Girl », selon moi, représente la relation entre l'humain et la nature et le combat de l'être humain contre lui-même et la décision de ses actionset sa façon d'agir.
