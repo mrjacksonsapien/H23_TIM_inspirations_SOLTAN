@@ -51,3 +51,7 @@ C'est un parcours de lumière, il y a une entrée et une sortie. Il y a des capt
 
 ### Zodie-Gal
 Jeu vidéo de type RP (role-play) ou le joueur doit aider une jeune fille à combattre des monstres zodiac. Le jeu interactif pourrait aussi être considéré comme une sorte de "visual novel" un autre type de jeu virtuel avec une histoire raconté.
+
+## Type d'installations
+- Interactive
+- Immersive
