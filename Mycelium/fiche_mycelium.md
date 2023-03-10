@@ -7,6 +7,7 @@
 - Boucler la boucle (*par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers*)
 - Zodie-Gal (*par Abdanor Yara*)
 
+
 ## Lien avec le thème de Mycélium
 
 ### Echomarine
@@ -23,3 +24,13 @@ Ce parcours permet la connexion entre l'humain et la nature dans un environnemen
 
 ### Zodie-Gal
 Le personnage de la petite fille « Flower Girl », selon moi, représente la relation entre l'humain et la nature et le combat de l'être humain contre lui-même et la décision de ses actionset sa façon d'agir.
+
+
+## Installations en cours (prototypes)
+
+## Echomarine
+-
+
+### EDRIA
+- Quatres poteaux qui servent de support
+- Un haut-parleur et un projecteur pointant vers le centre est attaché à chaque poteau
