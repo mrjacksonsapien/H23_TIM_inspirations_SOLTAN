@@ -1,8 +1,5 @@
 # Mycelium
 
-## Lieu
-Grand Studio (TIM), Collège Montmorency.
-
 ## Type d'expositions
 Expositions temporaires (prototypes) intérieurs. Résultat final sera exposé à l'extérieur temporairement.
 
