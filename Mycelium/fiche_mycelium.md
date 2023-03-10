@@ -67,3 +67,15 @@ Jeu vidéo de type RP (role-play) ou le joueur doit aider une jeune fille à com
 - **Luma Sol:** «*Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux.* »
 - **Boucler la boucle:** « *Une expérience lumineuse immergeante, des animations sensationnel et une ambiance musical des plus spécial. Ce parcours interactif permet la communion entre l'humain et la nature tout en nous plongeant au coeur d'un marais aux apparences magique.*»
 - **Zodie-Gal:** «*Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une jeune fille à trouver des moyens de tuer des monstres Zodiac en cliquant sur le bon objet d’une image. Il y a 12 niveaux au total(baser sur le zodiac). Chaque niveaux contient 2 images: une image pour trouver le bon objet à utiliser contre le Zodiac et une image qui montre la victoire au joueur face au Zodiac.*»
+
+## Composantes et techniques
+
+- Echomarine: Il y a trois projecteurs qui pointent chacun sur un mur. La projection est fait d'une façon que l'image se suit d'un mur à l'autre. Pour la page interactive pour sélectionner les animaux marins, l'utilisation du HTML et CSS a été importante. Plusieurs autres languages de programmation on été utilisé aussi avec la plateforme VS Code. Un logiciel de montage de son a pu être aussi aperçu dans l'autre salle à côté. Ce logiciel a été utilisé pour le montage de la trame sonore et les bruits d'ambiance.
+
+- Entre fungus: Il y a quatre poteaux sur les côtés où sont attachés des haut-parleurs et des projecteurs de lumière de différentes couleurs. Il y a un poteau au milieu enseveli de végétations sur lequel il y a quatre capteurs qui peuvent être en marche en même temps. Tout ces équipements sont relié à un logiciel qui permet de programmer toute ce petit environnement.
+
+- Luma Sol: Il y a un vélo sur lequel l'utilisateur pédale. Une dynamo est attaché à ce vélo. La rotation de la dynamo engendré par le mouvement de la roue envoie un signal éléctrique qui enclenchent l'animation de la transition des lumières dans une forme de boucle. La vitesse de l'animation est relative à la vitesse à laquel la dynamo tourne. Un certain son joue lorsque le système est en marche et ce son change graduellement selon la vitesse.
+
+- Boucler la boucle: Il y a plusieurs capteurs partout dans le chemin avec des guirlandes lumineuses et des poteaux qui servent de soutien pour les guirlandes, capteurs, haut-parleurs, etc. 
+
+- Zodie-Gal: Il y a un ordinateur installé avec des haut-parleurs, l'utilisateur peut jouer à l'expérience interactive. L'immersion est plus présente dû au fait que l'expérience se situe dans une petite salle noire.
