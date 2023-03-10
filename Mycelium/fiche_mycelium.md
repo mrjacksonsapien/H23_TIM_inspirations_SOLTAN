@@ -48,3 +48,6 @@ C'est un parcours de lumière, il y a une entrée et une sortie. Il y a des capt
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/boucler_la_boucle/poteau_img1.jpeg">
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/boucler_la_boucle/appareils_img2.jpeg">
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/boucler_la_boucle/programme.jpeg">
+
+### Zodie-Gal
+Jeu vidéo de type RP (role-play) ou le joueur doit aider une jeune fille à combattre des monstres zodiac. Le jeu interactif pourrait aussi être considéré comme une sorte de "visual novel" un autre type de jeu virtuel avec une histoire raconté.
