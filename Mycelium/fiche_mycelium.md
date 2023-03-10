@@ -34,3 +34,6 @@ C'est une expérience qui se démarque par son concept original d'un poteau inte
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/entre_fungus/poteau_central_img1.JPG">
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/entre_fungus/poteau_speaker.JPG">
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/entre_fungus/programmes_img1.JPG">
+
+### Luma Sol
+C'est un système de guirlande d'ampoules DEL dont les couleurs changent dans un certain ordre pour nous donner le mouvement d'une boucle. Cette  
