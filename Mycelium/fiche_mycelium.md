@@ -26,3 +26,4 @@ C'est une oeuvre qui est constitué de 3 projecteurs qui pointe vers 3 murs diff
 
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/echomarine/mure_droit.JPG">
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/echomarine/projecteurs_img3.JPG">
+<img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/echomarine/ecran_interactif.JPG">
