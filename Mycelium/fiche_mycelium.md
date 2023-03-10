@@ -10,7 +10,7 @@
 ## Lien avec le thème de Mycélium
 
 ### Echomarine
-Parle de la biodiversité des fonds marins et le danger auquel les animaux marins sont exposés.
+Montre la beauté des fonds marins et le danger auquel les animaux marins sont exposés.(https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
 ### Entre fungus
-Cette installation représente le désir de l'humain de cacher sa destruction de la nature et les champignons représente « la fin de la boucle de l'industrialisation, puisque les champignons sont la dernière étape du cycle de la vie » comme mentionné par l'équipe dans le résumé du projet (https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html).
+Cette installation représente le désir de l'humain de cacher sa destruction de la nature et les champignons représente « la fin de la boucle de l'industrialisation, puisque les champignons sont la dernière étape du cycle de la vie » comme mentionné par l'équipe dans le résumé du projet. (https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
