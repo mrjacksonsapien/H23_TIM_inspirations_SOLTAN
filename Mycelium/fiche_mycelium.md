@@ -27,3 +27,12 @@ C'est une oeuvre qui est constitué de 3 projecteurs qui pointe vers 3 murs diff
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/echomarine/mure_droit.JPG">
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/echomarine/projecteurs_img3.JPG">
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/echomarine/ecran_interactif.JPG">
+
+### Entre fungus
+C'est une expérience qui se démarque par son concept original d'un poteau interactif qui se situe au milieu d'un endroit qui est lui aussi interactif avec des installations qui entoure l'utilisateur. Ce poteau a quelque lianes et végétations autour de lui pour donner un style un peu plus exotique et dépendamment du côté ou la personne se situe, l'ambiance des bruits et lumière va changer. Si plusieurs personnes se joignent à l'expérience, un son et ambiance lumineuse caché sera déclenché. Les poteaux autour sont munis de hauts-parleurs et de projecteurs.
+
+<img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/entre_fungus/poteau_central_img1.JPG">
+<img width="500px" src="">
+<img width="500px" src="">
+<img width="500px" src="">
+<img width="500px" src="">
