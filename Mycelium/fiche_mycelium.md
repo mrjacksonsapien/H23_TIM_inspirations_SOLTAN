@@ -15,3 +15,6 @@ Expositions temporaires (prototypes) intérieurs. Résultat final sera exposé �
 - Luma Sol (*par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson*)
 - Boucler la boucle (*par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers*)
 - Zodie-Gal (*par Abdanor Yara*)
+
+## Année de réalisation
+2023
