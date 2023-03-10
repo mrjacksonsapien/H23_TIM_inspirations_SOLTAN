@@ -58,3 +58,12 @@ Jeu vidéo de type RP (role-play) ou le joueur doit aider une jeune fille à com
 - Luma Sol: Interactive
 - Boucler la boucle: Interactive
 - Zodie-Gal: Interactive/Immersive
+
+## Fonction du dispositif multimédia
+### Descriptions des développeurs:
+
+- Echomarine: « »
+- Entre fungus: « »
+- Luma Sol: « »
+- Boucler la boucle: « »
+- Zodie-Gal: « »
