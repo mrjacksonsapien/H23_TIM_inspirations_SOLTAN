@@ -36,4 +36,8 @@ C'est une expérience qui se démarque par son concept original d'un poteau inte
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/entre_fungus/programmes_img1.JPG">
 
 ### Luma Sol
-C'est un système de guirlande d'ampoules DEL dont les couleurs changent dans un certain ordre pour nous donner le mouvement d'une boucle. Cette  
+C'est un système de guirlande d'ampoules DEL dont les couleurs changent dans un certain ordre pour nous donner le mouvement d'une boucle. Cette évènement peut-être enclenché par le simple fait d'utiliser le vélo stationnaire. Une dynamo sera installé sur la roue avant du vélo et ce mouvement de rotation donnera le courant et signal pour que le changement de couleurs dans les guirlandes s'effectuent. Les créateurs de cette expérience ont aussi mentionner vouloir créer une prise et lorseque la personne pédale, elle peut charger son téléphone. Il y a également une colonne de lumière qui a des variations de couleurs lors de l'action de l'utilisateur.
+
+<img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/luma_sol/sujet.jpeg">
+<img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/luma_sol/structure_1.jpeg">
+<img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/luma_sol/colonne_lumiere.jpeg">
