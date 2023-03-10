@@ -31,9 +31,9 @@ C'est une oeuvre qui est constitué de 3 projecteurs qui pointe vers 3 murs diff
 ### Entre fungus
 C'est une expérience qui se démarque par son concept original d'un poteau interactif qui se situe au milieu d'un endroit qui est lui aussi interactif avec des installations qui entoure l'utilisateur. Ce poteau a quelque lianes et végétations autour de lui pour donner un style un peu plus exotique et dépendamment du côté ou la personne se situe, l'ambiance des bruits et lumière va changer. Si plusieurs personnes se joignent à l'expérience, un son et ambiance lumineuse caché sera déclenché. Les poteaux autour sont munis de hauts-parleurs et de projecteurs.
 
-<img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/entre_fungus/poteau_central_img1.JPG">
-<img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/entre_fungus/poteau_speaker.JPG">
-<img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/entre_fungus/programmes_img1.JPG">
+<img width="500px" src="./medias/entre_fungus/poteau_central_img1.JPG">
+<img width="500px" src="./medias/entre_fungus/poteau_speaker.JPG">
+<img width="500px" src="./medias/entre_fungus/programmes_img1.JPG">
 
 ### Luma Sol
 C'est un système de guirlande d'ampoules DEL dont les couleurs changent dans un certain ordre pour nous donner le mouvement d'une boucle. Cette évènement peut-être enclenché par le simple fait d'utiliser le vélo stationnaire. Une dynamo sera installé sur la roue avant du vélo et ce mouvement de rotation donnera le courant et signal pour que le changement de couleurs dans les guirlandes s'effectuent. Les créateurs de cette expérience ont aussi mentionner vouloir créer une prise et lorseque la personne pédale, elle peut charger son téléphone. Il y a également une colonne de lumière qui a des variations de couleurs lors de l'action de l'utilisateur.
