@@ -17,3 +17,6 @@ Cette installation représente le désir de l'humain de cacher sa destruction de
 
 ### Luma Sol
 Montre l'importance pour les humains de rester en contact avec la nature en raison de l'urgence climatique. En pédalant on peut poser une action positive sur l'environnement lumineux. (Lien de l'explication: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
+
+### Boucler la boucle
+Ce parcours permet la connexion entre l'humain et la nature dans un environnement immersif (Lien de l'explication: https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html)
