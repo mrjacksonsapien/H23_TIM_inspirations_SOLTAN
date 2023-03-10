@@ -41,3 +41,10 @@ C'est un système de guirlande d'ampoules DEL dont les couleurs changent dans un
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/luma_sol/sujet.jpeg">
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/luma_sol/structure_1.jpeg">
 <img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/luma_sol/colonne_lumiere.jpeg">
+
+### Boucler la boucle
+C'est un parcours de lumière, il y a une entrée et une sortie. Il y a des capteurs de mouvements à l'entrée et la sortie et pendant le parcours aussi, chaque fois que quelqu'un entre, des sons joue et les lumières changent. Le système est fait d'une certaine façon pour que si plusieurs personnes entre, l'expérience ne s'arrêtent pas pour la première personne qui n'est pas encore sorti et tout le monde peut profiter en même temps.
+
+<img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/boucler_la_boucle/poteau_img1.jpeg">
+<img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/boucler_la_boucle/appareils_img2.jpeg">
+<img width="500px" src="https://github.com/mrjacksonsapien/H23_TIM_inspirations_SOLTAN/blob/main/Mycelium/medias/boucler_la_boucle/programme.jpeg">
