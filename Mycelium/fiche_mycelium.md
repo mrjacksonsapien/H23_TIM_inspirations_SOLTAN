@@ -9,8 +9,8 @@ Expositions temporaires (prototypes) intérieurs. Résultat final sera exposé �
 ## Date de visite
 3 mars 2023
 
-## Titre des oeuvres
-- Echomarine
+## Les oeuvres
+- Echomarine (*par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel*)
 - Entre fungus (EDRIA)
 - Luma Sol
 - Boucler la boucle
